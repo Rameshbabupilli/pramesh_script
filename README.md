@@ -11,7 +11,7 @@ performed upto the user selected exit option performed upto the user selected ex
 7. killing a application
 8. exit
 
-Description:
+File Description:
 pramesh_script.sh is a main script file to perform all the requirements.
 
 File copy:
